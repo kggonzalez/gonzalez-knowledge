@@ -1,4 +1,5 @@
-<link href="stylesheet.css" rel="stylesheet"></(https://raw.githubusercontent.com/kggonzalez/gonzalez-knowledge/New-Start---7.27.2022/stylesheet.css?token=GHSAT0AAAAAABWGJVVISLQ4564NLLUHKXD4YXBPYUA)>
+<link href="stylesheet.css" rel="stylesheet"><(https://raw.githubusercontent.com/kggonzalez/gonzalez-knowledge/New-Start---7.27.2022/stylesheet.css?token=GHSAT0AAAAAABWGJVVISLQ4564NLLUHKXD4YXBPYUA)/>
+
 ---
 layout: post
 title:  "Welcome to Jekyll!"
