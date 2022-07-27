@@ -1,5 +1,3 @@
-<link href="stylesheet.css" rel="stylesheet">
-
 ---
 layout: post
 title:  "Welcome to Jekyll!"
